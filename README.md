@@ -1,8 +1,9 @@
-# Hi, I'm Daniel! I'm a STEM student and aspiring mechatronics engineer
+# Hi, I'm locallupo!
 
 ## 💫 About Me:
-🔭 I’m currently working on: **[Tea Leaves Minecraft Mod](https://github.com/locallupo/Tea_Leaves)**  
-🌱 I’m currently learning: Minecraft Fabric & Microcontrollers
+I'm a STEM student and Aspiring to be a Mechatronics Engineer
+
+I'm a Minecraft Mod developer, best known for [Whispering Spirits](https://www.curseforge.com/minecraft/mc-mods/whispering-spirits)
 
 
 ## 🌐 Socials:
